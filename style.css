@@ -85,6 +85,9 @@ header h2{
     font-weight: bold;
     font-size: 14px;
  }
+ .search-info:hover{
+    background-color: rgb(3, 37, 67, 0.8);
+ }
  .info-h1{
     padding-bottom: 90px;
     padding-top: 90px;
